@@ -1,3 +1,3 @@
-Predict SMP for real estate using regression Models
+Predict real estate Estate Square per meter price (SPM)    using regression Models
 The Goal from this project was to use a regression model to predict real Estate prices on Madinah, based on data that available on MOJ open data
 Dataset: 11076 sample with 10 features about deals executed in Madinah in 2019, obtained from Ministry of Justise open data
